@@ -2,6 +2,8 @@
 v1.0 Developer By Kappi7581
 # Termux (Android)
 ```bash
+pkg update && pkg upgrade -y
+pkg install git python -y
 git clone https://github.com/Kappi7581/pubg_hacking_v1.0.git
 cd pubg_hacking_v1.0
 python kappipubghack.py
